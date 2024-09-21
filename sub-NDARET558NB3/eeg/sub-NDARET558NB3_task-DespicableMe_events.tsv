@@ -1,0 +1,21 @@
+onset	duration	sample	value	event_code
+0	n/a	0	9999	9999
+1.05	n/a	525	video_start	83
+171.594	n/a	85797	video_stop	103
+172.116	n/a	86058	break cnt	break cnt
+272.898	n/a	136449	contrastChangeB3_start	96
+278.638	n/a	139319	contrastTrial_start	5
+284.342	n/a	142171	dot_no2_ON	12
+284.642	n/a	142321	stim_ON	8
+287.042	n/a	143521	contrastTrial_start	5
+290.922	n/a	145461	dot_no3_ON	13
+291.442	n/a	145721	stim_ON	8
+293.842	n/a	146921	contrastTrial_start	5
+296.642	n/a	148321	stim_ON	8
+297.682	n/a	148841	dot_no2_ON	12
+298.682	n/a	149341	dot_no3_ON	13
+299.042	n/a	149521	contrastTrial_start	5
+301.842	n/a	150921	right_target	9
+304.242	n/a	152121	contrastTrial_start	5
+310.25	n/a	155125	right_target	9
+312.65	n/a	156325	contrastTrial_start	5
