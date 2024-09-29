@@ -21,5 +21,6 @@
   "GeneratedBy":[ {
     "Name": "bids-matlab-tools",
     "Version": "9.1"
-  }]
+  }],
+  "DatasetDOI": "10.18112/openneuro.ds005512.v1.0.0"
 }
