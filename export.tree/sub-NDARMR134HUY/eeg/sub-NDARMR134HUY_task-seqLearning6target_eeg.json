@@ -1,0 +1,10 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "seqLearning6target",
+  "EEGChannelCount": 129,
+  "EEGReference": "Cz",
+  "RecordingType": "continuous",
+  "RecordingDuration": 274.174,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
