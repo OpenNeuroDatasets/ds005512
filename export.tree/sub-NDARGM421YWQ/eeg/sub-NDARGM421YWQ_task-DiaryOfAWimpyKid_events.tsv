@@ -1,8 +1,0 @@
-onset	duration	sample	value	event_code
-0	n/a	0	9999	9999
-1.226	n/a	613	video_start	81
-118.618	n/a	59309	video_stop	101
-119.168	n/a	59584	break cnt	break cnt
-158.636	n/a	79318	contrastChangeB2_start	95
-164.408	n/a	82204	contrastTrial_start	5
-167.21	n/a	83605	right_target	9
