@@ -2,10 +2,10 @@
   "Name": "Healthy Brain Network (HBN) EEG - Release 8",
   "License": "CC-BY-SA 4.0",
   "Authors": ["Seyed Yahya Shirazi", "Alexandre Franco", "Maurício Scopel Hoffmann", "Nathalia B. Esper", "Dung Truong", "Arnaud Delorme", "Michael Milham", "Scott Makeig"], 
-  "ReferencesAndLinks": ["https://dx.doi.org/10.1038/sdata.2017.181",
-                          "https://dx.doi.org/10.1038/sdata.2017.40",
-                          "https://doi.org/10.1101/2024.10.03.615261"],
-  "HowToAcknowledge": "Please cite the following papers when using this dataset: https://doi.org/10.1101/2024.10.03.615261, https://dx.doi.org/10.1038/sdata.2017.181, https://dx.doi.org/10.1038/sdata.2017.40",
+  "ReferencesAndLinks": ["https://doi.org/10.1101/2024.10.03.615261",
+	  		 "https://dx.doi.org/10.1038/sdata.2017.181",
+                          "https://dx.doi.org/10.1038/sdata.2017.40"],
+  "HowToAcknowledge": "Please cite the dataset paper (https://doi.org/10.1101/2024.10.03.615261) as well as the original HBN publication (https://dx.doi.org/10.1038/sdata.2017.181).",
   "EthicsApprovals": ["Chesapeake Institutional Review Board"],
   "BIDSVersion": "1.9.0",
   "HEDVersion": "8.3.0",
@@ -22,5 +22,5 @@
     "Name": "bids-matlab-tools",
     "Version": "9.1"
   }],
-  "DatasetDOI": "10.18112/openneuro.ds005512.v1.0.0"
+  "DatasetDOI": "10.18112/openneuro.ds005512.v1.0.1"
 }
