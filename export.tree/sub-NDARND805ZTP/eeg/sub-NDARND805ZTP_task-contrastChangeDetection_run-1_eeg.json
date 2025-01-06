@@ -1,0 +1,10 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "contrastChangeDetection",
+  "EEGChannelCount": 129,
+  "EEGReference": "Cz",
+  "RecordingType": "continuous",
+  "RecordingDuration": 1398.266,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}

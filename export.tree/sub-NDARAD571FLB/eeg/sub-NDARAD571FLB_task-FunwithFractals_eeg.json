@@ -1,0 +1,10 @@
+{
+  "PowerLineFrequency": 60,
+  "TaskName": "FunwithFractals",
+  "EEGChannelCount": 129,
+  "EEGReference": "Cz",
+  "RecordingType": "continuous",
+  "RecordingDuration": 164.544,
+  "SamplingFrequency": 500,
+  "SoftwareFilters": "n/a"
+}
